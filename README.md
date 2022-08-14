@@ -1,20 +1,20 @@
 # goit-node-hw-01
 
 all comands:
-[allComands](https://ibb.co/JCWRgTV).
+[allComands](https://).
 
 Получаем и выводим весь список контактов в виде таблицы (console.table):
 node index.js --action list
-[contactsList](https://ibb.co/9Tc8zz8).
+[contactsList](https://).
 
 Получаем контакт по id:
 node index.js --action get --id 5
-[getContact](https://ibb.co/P1S7y5Z).
+[getContact](https://).
 
 Добавялем контакт:
 node index.js --action add --name Mango --email mango@gmail.com --phone 322-22-22
-[addedContact](https://ibb.co/wy9GPCQ).
+[addedContact](https://).
 
 Удаляем контакт:
 node index.js --action remove --id 3
-[contactIsDeleted](https://ibb.co/GsmfDt6).
+[contactIsDeleted](https://).
