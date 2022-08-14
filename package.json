@@ -10,16 +10,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://https://github.com/SergeyFilchenko/goit-node-hw-01.git"
+    "url": "git+https://github.com/SergeyFilchenko/goit-node-hw-01.git"
   },
-  "author": "oleksandr eirikh",
+  "author": "SergeyFilchenko",
   "license": "ISC",
   "bugs": {
-    "url": "https://https://github.com/SergeyFilchenko/goit-node-hw-01.git/issues"
+    "url": "https://github.com/SergeyFilchenko/goit-node-hw-01.git/issues"
   },
   "homepage": "https://github.com/SergeyFilchenko/goit-node-hw-01#readme",
   "devDependencies": {
-    "nodemon": "^2.0.16"
+    "nodemon": "^2.0.19"
   },
   "dependencies": {
     "colors": "^1.4.0",
